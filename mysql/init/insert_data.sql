@@ -1,3 +1,3 @@
 INSERT INTO `users` (name, email, password) VALUES("taro", 'hoge@fuga.com', 'pass123');
-INSERT INTO `users` (name) VALUES("jiro");
-INSERT INTO `users` (name) VALUES("tanaka");
+INSERT INTO `users` (name) VALUES("sakabe");
+INSERT INTO `users` (name) VALUES("kentaro");
